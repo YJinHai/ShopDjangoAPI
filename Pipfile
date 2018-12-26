@@ -4,12 +4,19 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+django = "==2.0.2"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
 pymysql = "*"
 pillow = "*"
+coreapi = "*"
+django-guardian = "*"
+raven = "*"
+django-redis = "*"
+djangorestframework-jwt = "*"
+pycryptodome = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 

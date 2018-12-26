@@ -3,5 +3,5 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (ShopDjangoAPI)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.7.0 (sftp://python@134.175.99.21:22/home/python/.local/share/virtualenvs/ShopDjangoAPI-Nqoy6gXD/bin/python3.7)" project-jdk-type="Python SDK" />
 </project>
