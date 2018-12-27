@@ -10,8 +10,8 @@ class BaseSetting(object):
 
 
 class GlobalSettings(object):
-    site_title = "mtianyan生鲜超市"
-    site_footer = "vueshop@mtianyan.cn"
+    site_title = "淡然生鲜超市"
+    site_footer = "vueshop@golangdoc.cn"
     # menu_style = "accordion"
 
 
